@@ -20,3 +20,5 @@ exports_files(glob(["requirements*"]) + [
     "AUTHORS",
     "LICENSE",
 ])
+}
+}
